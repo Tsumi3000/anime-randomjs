@@ -1,7 +1,7 @@
 {
   "name": "anime-randomjs",
   "version": "1.0.1",
-  "description": "test",
+  "description": "Package pour des gifs d'animé aléatoires. Idéal pour vos bots discord !",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
