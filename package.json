@@ -1,7 +1,7 @@
 {
-  "name": "@nitsume/anime-randomjs",
+  "name": "anime-randomjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,14 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Tsumi3000/anime-random.js.git"
   },
-  "keywords": [
-    "anime",
-    "random",
-    "gif",
-    "search",
-    "discordjs"
-  ],
-  "author": "nitsume",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Tsumi3000/anime-random.js/issues"
