@@ -48,5 +48,5 @@ Message en console:
 
 Pour savoir quelles sont les requetes, voir les options en haut
 
-Voilà, vous savez tout sur ce package ! Rejoins nous sur [notre discord]("https://discord.gg/ZW6WwgymCB")
+Voilà, vous savez tout sur ce package ! Rejoins nous sur [notre discord](https://discord.gg/ZW6WwgymCB)
 
