@@ -1,6 +1,6 @@
 {
   "name": "anime-randomjs",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Package pour des gifs d'animé aléatoires. Idéal pour vos bots discord !",
   "main": "index.js",
   "scripts": {
