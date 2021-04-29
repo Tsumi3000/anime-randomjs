@@ -2,10 +2,9 @@ Ce module vous permettra de generer des gif d'animé, idéal pour vos bots disco
 
 Les differentes classes sont:
 
-# _______________________________
-# |      Nom      |     NSFW     |
-# |_______________|______________|
-# |     neko      |    false     |
-# |_______________|______________|
-# |   neko_nsfw   |     true     |
-# |_______________|______________|
+neko => soft
+blush => soft
+bored => soft
+coffindance => soft
+confused => soft
+cry => soft
