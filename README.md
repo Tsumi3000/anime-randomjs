@@ -4,7 +4,7 @@ Les differentes classes sont:
 
 # soft:
 
-bored, confused, cry, dance, happy, hi, hug, kill, kiss, lick, mobile_wallpaper, neko, pat, punch, revive, run, slap, sleep, suicide
+bored, confused, cry, dance, happy, hi, hug, kill, kiss, lick, mobile_wallpaper, pat, punch, revive, run, slap, sleep, suicide, neko_man, neko_girl, neko
 
 # nsfw:
 
